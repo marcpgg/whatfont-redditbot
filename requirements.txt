@@ -1,0 +1,7 @@
+beautifulsoup4==4.6.3
+jupyter==1.0.0
+Pillow==5.1.0
+praw==6.0.0
+requests==2.19.1
+urllib3==1.23
+

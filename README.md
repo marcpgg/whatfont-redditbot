@@ -15,4 +15,4 @@ WhatfontBot was made to quickly get a grasp of what font might be used in an ima
 
 
 ### Disclaimer
-An API by  [Whatfontis] (https://whatfontis.com) is used to detect and recognize fonts.
+API by  [Whatfontis](https://whatfontis.com) is used to detect and recognize fonts.
